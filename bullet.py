@@ -1,3 +1,4 @@
+# Bullet objects
 import pygame
 from pygame.sprite import Sprite
 
